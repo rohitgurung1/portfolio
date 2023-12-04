@@ -15,25 +15,23 @@ const About = () => {
       </p>
       <div className="flex flex-col items-center md:gap-6 gap-12 max-w-6xl mx-auto text-gray-300 mt-5">
         <p className="text-justify leading-7 w-11/12 mx-auto ">
-          👋 Hello there! I'm Dhan Bahadur Gurung, a dedicated student currently
-          on the exciting journey of pursuing a Bachelor's in Computer
-          Application at Nepathya College. My fascination with the intersection
-          of design and technology has led me to specialize in frontend
-          development, where I harness the power of Tailwind CSS,
-          React.js/Next.js to create visually stunning and highly functional
-          user interfaces. In the dynamic world of web development, I thrive on
-          the challenge of bringing ideas to life and am deeply committed to
-          delivering seamless digital experiences. Beyond the lines of code, I
-          am on a mission to explore innovative ways of combining creativity and
-          technology to enhance user interactions and exceed expectations.
-          Throughout my academic journey, I've been refining my skills and
-          staying abreast of the latest industry trends. I am particularly proud
-          of [any noteworthy achievements or projects], which reflect my
-          dedication to pushing the boundaries of what's possible. Whether
-          you're interested in collaborating on a project, discussing the latest
-          in frontend development, or just connecting with like-minded
-          individuals, I'm always open to new opportunities and conversations.
-          Let's embark on this exciting digital adventure together! 🌐🚀
+          👋 Hello there! I&apos;m Dhan Bahadur Gurung, a dedicated student
+          currently on the exciting journey of pursuing a Bachelor&apos;s in
+          Computer Application at Nepathya College. I specialize in frontend
+          development, utilizing Tailwind CSS, React.js/Next.js to craft
+          visually stunning and highly functional user interfaces. I thrive on
+          bringing ideas to life in the dynamic world of web development, always
+          committed to delivering seamless digital experiences. Beyond coding,
+          I&apos;m on a mission to explore innovative ways of combining
+          creativity and technology to enhance user interactions. Throughout my
+          academic journey, I&apos;ve refined my skills and stayed abreast of
+          the latest industry trends. I&apos;m particularly proud of [any
+          noteworthy achievements or projects], showcasing my dedication to
+          pushing the boundaries of what&apos;s possible. Whether you&apos;re
+          interested in collaborating on a project, discussing the latest in
+          frontend development, or connecting with like-minded individuals,
+          I&apos;m always open to new opportunities and conversations.
+          Let&apos;s embark on this exciting digital adventure together! 🌐🚀
         </p>
         <ul className=" mt-10 flex items-center justify-center md:gap-48 gap-6">
           {Info?.map((content, i) => (
